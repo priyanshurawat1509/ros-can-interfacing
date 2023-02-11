@@ -1,4 +1,4 @@
-# ros-can-node
+# ros-can-interfacing
 
 
 
