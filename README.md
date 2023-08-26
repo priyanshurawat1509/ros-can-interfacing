@@ -1,6 +1,5 @@
-# ros-can-interfacing
+# ros-can-interfacing (deeporange14_control Package)
 
-# deeporange14_control Package
 # Deep Orange DBW Controls Interface Package for Autonomous Driving
 
 ### Functionality:
